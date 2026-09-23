@@ -1,6 +1,11 @@
 # 👥 Sistema de Gerenciamento de Amigos com Autenticação e CRUD Protegido em PHP
 
-Proposta de projeto para a disciplina de **Programação Web II**, sob orientação da professora **Alice**.
+## 🎥 Apresentação do Projeto
+
+A apresentação em vídeo demonstra o funcionamento do sistema de login e do cadastro de amigos (CRUD), além de explicar as principais características técnicas do projeto.
+
+**▶️ [Assistir à apresentação em vídeo](https://www.youtube.com/watch?v=rePWvJDR4Ek)**
+
 
 ---
 
